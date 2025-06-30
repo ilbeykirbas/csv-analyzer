@@ -33,9 +33,9 @@ python csv_analyzer.py
 ```
 Then:
 
-**1.** Click "Select CSV File" and choose a .csv
-**2.** Select a column from the list
-**3.** View stats below, and click "Show Chart" for a histogram (numeric only)
+- **1.** Click "Select CSV File" and choose a .csv
+- **2.** Select a column from the list
+- **3.** View stats below, and click "Show Chart" for a histogram (numeric only)
 
 ---
 
