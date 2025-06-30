@@ -43,6 +43,7 @@ Then:
 
 ```
 csv-analyzer/
+├── data/
 ├── csv_analyzer.py
 ├── requirements.txt
 ├── README.md
