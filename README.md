@@ -5,7 +5,7 @@ Built with Python, Tkinter, and pandas, this app lets you explore column statist
 
 ---
 
-## 🔍 Features
+## Features
 
 - Load and read CSV files easily
 - Display list of column names
@@ -16,7 +16,7 @@ Built with Python, Tkinter, and pandas, this app lets you explore column statist
 
 ---
 
-## 🧰 Requirements
+## Requirements
 
 Install required libraries with:
 
