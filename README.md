@@ -40,11 +40,14 @@ Then:
 ---
 
 ## File Structure
+
+```
 csv-analyzer/
 ├── csv_analyzer.py
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
 
 ---
 
